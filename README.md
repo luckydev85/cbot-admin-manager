@@ -34,3 +34,4 @@ npm run dev
 npm run build
 ```
 "# cbot-admin-manager" 
+"# cbot-admin-manager" 
